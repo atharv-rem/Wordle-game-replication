@@ -7,9 +7,8 @@ The turning point arrived with the announcement of my class 11 computer science 
 
 [![Visit Website](https://img.shields.io/badge/Original%20Game-Click%20Here-black?style=for-the-badge)](https://www.nytimes.com/games/wordle/index.html)
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=d4r534&label=Views)](https://github.com/d4r534/Wordle-game-replication)
+[![GitHub Views](https://komarev.com/ghpvc/?username=atharv-rem&label=Views)](https://github.com/atharv-rem/Wordle-game-replication)
 
-[![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=atharv-remrepo=Wordle-game-replication&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=000000)](https://github.com/atharv-rem/Wordle-game-replication)
 
 ## Share my work on:
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg-black?)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
