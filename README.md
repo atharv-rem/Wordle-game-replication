@@ -24,7 +24,7 @@ The turning point arrived with the announcement of my class 11 computer science 
 
 
 # Dictionary of Words
-```
+```python
 import requests
 word_site = "https://www-cs-faculty.stanford.edu/~knuth/sgb-words.txt"
 response = requests.get(word_site)
